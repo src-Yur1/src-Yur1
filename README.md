@@ -1,7 +1,7 @@
 # "Olá mundo!", eu sou o Yuri 👋
 
 <div align="center">
-  <img src="./campfire.gif" width="700">
+  <img src="./giratina.gif" width="700">
 </div>
 
 

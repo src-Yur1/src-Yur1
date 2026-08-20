@@ -12,14 +12,14 @@ Estou cursando **Ciência da Computação** e gosto de desenvolver soluções co
 ## 🛠️ Tecnologias e Ferramentas
 
 ### Já utilizo no dia a dia:
-* <img src="https://img.shields.io/badge/logo-javascript-purple?logo=javascript" /> **JavaScript**
-* <img src="https://img.shields.io/badge/logo-python-purple?logo=python"  /> **Python**
-* <img src="https://img.shields.io/badge/logo-html5-purple?logo=html5"  /> **HTML5**
-* <img src="https://img.shields.io/badge/logo-css3-purple?logo=css"  /> **CSS3**
+* <img src="https://img.shields.io/badge/.-javascript-purple?logo=javascript" />
+* <img src="https://img.shields.io/badge/.-python-purple?logo=python"  /> 
+* <img src="https://img.shields.io/badge/.-html5-purple?logo=html5"  /> 
+* <img src="https://img.shields.io/badge/.-css3-purple?logo=css"  /> 
 
 ### Estou aprendendo e me aprofundando:
-* <img src="https://img.shields.io/badge/logo-typescript-purple?logo=typescript"  /> **TypeScript**
-* <img src="https://img.shields.io/badge/logo-micropython-purple?logo=micropython"  /> **MicroPython (IoT & Hardware)**
+* <img src="https://img.shields.io/badge/.-typescript-purple?logo=typescript"  /> 
+* <img src="https://img.shields.io/badge/.-micropython-purple?logo=micropython"  /> **(IoT & Hardware)**
 ---
 ## 📊 Minhas Estatísticas
 
@@ -29,7 +29,7 @@ Estou cursando **Ciência da Computação** e gosto de desenvolver soluções co
 </div>
 
 ## 🌍 Idiomas
-* **Português:** Nativo
+* **Português** 
 * **Inglês:** Intermediário 
 
 ---
